@@ -1,0 +1,5 @@
+K,thức kì 2
+- Front end > Adv Web UI.
+- UI.
+- php Back end
+- Dot Net (.Net) core.
